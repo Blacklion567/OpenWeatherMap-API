@@ -1,8 +1,8 @@
 {
-   "homepage": "https://github.com/Blacklion567/OpenWeatherMap-API",
    "name": "weathercheck",
    "private": true,
    "version": "0.0.0",
+   "homepage": "https://github.com/Blacklion567/OpenWeatherMap-API",
    "type": "module",
    "scripts": {
       "predeploy": "npm run build",
